@@ -1,0 +1,1 @@
+# using self join (for e.g., to join id column to a specific name already shown in that table.. emp_id --> name --> report_id, self join to find name of report_id)
